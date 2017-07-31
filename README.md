@@ -1,5 +1,7 @@
 # Draw.io GitHub Integration
 
+[Phase 2 doc](phase2/grpc.md)
+
 GitHub support is now available https://www.draw.io/?mode=github An example for integration into GitHub wikis is available here: https://github.com/jgraph/draw.io/wiki/Embed-Diagrams!
 
 --
